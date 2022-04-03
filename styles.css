@@ -1,0 +1,21 @@
+.wrapper {
+  position: relative;
+}
+#mainNav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: 0;
+  margin-left: 0;
+  width: 100%;
+}
+.logo {
+  height: auto;
+  width: 140px;
+}
+.btn {
+  border-radius: 12px;
+}
+.pure {
+  padding-bottom: 30px;
+}
